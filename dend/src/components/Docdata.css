@@ -1,0 +1,22 @@
+.doc-data {
+    width: 100%;
+    padding: 2rem;
+    background-color: #000;
+    
+}
+.jobs{
+max-width:1340px;
+margin: auto;
+padding:1rem;
+
+}
+
+.data{
+max-width:1340px;
+padding:1rem;
+margin:auto;
+
+}
+h2{
+   background-color: white;
+}
